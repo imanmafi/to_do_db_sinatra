@@ -2,7 +2,6 @@
 
 ##### _Creates to-do list, Aug 11 2015_
 
-#### By _**Andrew Dang & Andrew Brennwald**_
 
 ## Description
 
